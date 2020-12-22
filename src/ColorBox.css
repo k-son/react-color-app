@@ -57,6 +57,14 @@
   text-transform: uppercase;
 }
 
+.light-text {
+  color: #fff;
+}
+
+.dark-text.dark-text {
+  color: #2d2d2d;
+}
+
 .see-more {
   position: absolute;
   right: 0px;
